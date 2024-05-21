@@ -1,7 +1,6 @@
 import { BottomPagination, CharacterCard } from "@/components";
 import { Box, Button, Stack, TextField } from "@mui/material";
 import React, { useEffect, useMemo, useState } from "react";
-// import { useNavigate, useParams } from "react-router-dom";
 import { ContentLayout } from "@/layouts";
 import type { ICharacter } from "../../interfaces/characters";
 import SearchIcon from "@mui/icons-material/Search";
